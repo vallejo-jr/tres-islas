@@ -5,6 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Greeting {
 
+  /** Autogenerada **/
     private  long id;
     private  String content;
 
